@@ -1,0 +1,14 @@
+🗓️ Day 9 – 09_multithreading_basics
+Topics:
+
+Thread lifecycle
+
+Creating threads (Thread, Runnable)
+
+Thread synchronization (basics)
+
+Sleep, Join
+
+🛠️ Project:
+Background File Downloader Simulation
+Create multiple threads to simulate downloading files simultaneously.

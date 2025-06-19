@@ -1,0 +1,14 @@
+🗓️ Day 4 – 04_collections
+Topics:
+
+Lists (ArrayList, LinkedList)
+
+Sets (HashSet, TreeSet)
+
+Maps (HashMap, TreeMap)
+
+Iterating collections
+
+🛠️ Project:
+Club Membership Register
+Store members, prevent duplicates, lookup details using maps.

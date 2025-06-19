@@ -1,0 +1,16 @@
+🗓️ Day 1 – 01_java_basics
+Topics:
+
+Java setup & compiling
+
+Data types & variables
+
+Operators
+
+Control flow (if-else, switch)
+
+Loops (for, while, do-while)
+
+🛠️ Project:
+Student Grading System
+Take user input for marks and use control flow to assign grades.

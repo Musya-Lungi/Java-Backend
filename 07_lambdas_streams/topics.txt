@@ -1,0 +1,12 @@
+🗓️ Day 7 – 07_lambdas_streams
+Topics:
+
+Functional Interfaces
+
+Lambda expressions
+
+Stream API: filter, map, reduce, collect
+
+🛠️ Project:
+Sales Data Processor
+Use Stream to filter and summarize a list of sales transactions.

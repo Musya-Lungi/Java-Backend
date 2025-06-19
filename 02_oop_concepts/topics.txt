@@ -1,0 +1,18 @@
+🗓️ Day 2 – 02_oop_concepts
+Topics:
+
+Classes & Objects
+
+Constructors
+
+this keyword
+
+Method Overloading
+
+Inheritance (Single/Multilevel)
+
+super keyword
+
+🛠️ Project:
+School Management System
+Create Student, Teacher, and Course classes with inheritance.

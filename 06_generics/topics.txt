@@ -1,0 +1,12 @@
+🗓️ Day 6 – 06_generics
+Topics:
+
+Generic Classes and Methods
+
+Bounded types
+
+Wildcards (?, extends, super)
+
+🛠️ Project:
+Generic Data Storage App
+Create a generic class to store and retrieve typed objects (e.g., Student, Teacher).

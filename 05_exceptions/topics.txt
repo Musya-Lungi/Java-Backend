@@ -1,0 +1,14 @@
+🗓️ Day 5 – 05_exceptions
+Topics:
+
+try, catch, finally
+
+Built-in Exceptions
+
+throw and throws
+
+Custom Exceptions
+
+🛠️ Project:
+Library Book Issuer
+Handle errors like book not found, already borrowed, max limit reached.

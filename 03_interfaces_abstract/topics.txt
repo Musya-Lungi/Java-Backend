@@ -1,0 +1,16 @@
+🗓️ Day 3 – 03_interfaces_abstract
+Topics:
+
+Interfaces
+
+Abstract Classes
+
+Multiple Inheritance (via interfaces)
+
+implements vs extends
+
+Polymorphism
+
+🛠️ Project:
+Online Payment Gateway
+Implement interface PaymentMethod with classes like Mpesa, Card, etc.

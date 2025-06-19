@@ -1,0 +1,17 @@
+🗓️ Day 8 – 08_miscellaneous
+Topics:
+
+static keyword
+
+final keyword
+
+Object class methods (toString, equals)
+
+Wrapper classes
+
+Autoboxing/Unboxing
+
+🛠️ Project:
+Utility Billing App
+Use static methods for unit calculations and override toString() for reporting.
+

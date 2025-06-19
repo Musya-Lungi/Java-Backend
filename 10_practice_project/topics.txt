@@ -1,0 +1,14 @@
+🗓️ Day 10 – 10_practice_project
+🧩 Objective:
+Combine everything from Day 1–9.
+
+🛠️ Project:
+Inventory Management System
+
+CRUD operations on products
+
+Stock tracking (Collections)
+
+Multithreaded reports
+
+Use of OOP, Interfaces, Exception Handling, Streams, and Generics
