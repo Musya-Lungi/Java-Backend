@@ -1,0 +1,17 @@
+📁 05_spring_security_and_jwt
+⏱ Duration: 7 days
+🎯 Topics to Cover:
+
+Spring Security filters and configuration
+
+Stateless authentication
+
+JWT authentication (Login, Signup)
+
+Securing endpoints based on roles
+
+🧪 Project: Student Management Portal with Auth
+
+Add login/signup endpoints with JWT
+
+Secure CRUD routes (admin, user roles)

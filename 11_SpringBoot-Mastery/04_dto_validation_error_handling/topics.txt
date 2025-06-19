@@ -1,0 +1,19 @@
+📁 04_dto_validation_error_handling
+⏱ Duration: 6 days
+🎯 Topics to Cover:
+
+DTOs vs Entities
+
+Java Bean Validation (JSR 380)
+
+@Valid, @Validated, and constraints
+
+Exception handling (@ControllerAdvice, @ExceptionHandler)
+
+Custom error response
+
+🧪 Project: Secure Student API v2
+
+Use DTOs for create/update
+
+Add validation + global error responses

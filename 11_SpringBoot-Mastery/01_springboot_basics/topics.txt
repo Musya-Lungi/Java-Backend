@@ -1,0 +1,23 @@
+📁 01_springboot_basics
+⏱ Duration: 5 days
+🎯 Topics to Cover:
+
+What is Spring Boot?
+
+Spring Boot project structure
+
+Spring Initializr
+
+Configuration (application.properties / application.yml)
+
+REST Controllers & basic routing
+
+Dependency Injection
+
+Component Scanning
+
+🧪 Project: Simple Student API
+
+CRUD endpoints for managing students (name, email, course)
+
+Use in-memory DB (like H2)

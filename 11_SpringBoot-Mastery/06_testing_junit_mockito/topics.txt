@@ -1,0 +1,15 @@
+📁 06_testing_junit_mockito
+⏱ Duration: 5 days
+🎯 Topics to Cover:
+
+Unit Testing with JUnit 5
+
+Mocking with Mockito
+
+Testing Services, Controllers, and Repositories
+
+Integration testing basics with SpringBootTest
+
+🧪 Project: Test Suite for Student Portal
+
+Write unit & integration tests for Student Management Portal (from previous module)

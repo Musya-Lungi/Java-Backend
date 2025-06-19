@@ -1,0 +1,18 @@
+📁 10_capstone_project
+⏱ Duration: 8–10 days
+🎯 Final Project: EduVerse – Academic ERP System
+A full-stack-ready backend for an academic institution with:
+
+Role-based access (Admin, Teacher, Student)
+
+Manage students, courses, marks, and class schedules
+
+RESTful APIs documented with Swagger
+
+JWT authentication
+
+Validation, error handling
+
+MySQL + Docker deployment
+
+Optional: Schedule email results / exam reminders

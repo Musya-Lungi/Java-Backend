@@ -1,0 +1,17 @@
+📁 09_misc_features_email_scheduler_uploads
+⏱ Duration: 6 days
+🎯 Topics to Cover:
+
+Sending emails with Spring Mail
+
+Scheduled tasks (@Scheduled)
+
+File uploads/downloads with MultipartFile
+
+🧪 Project: Student Notifier System
+
+Schedule reminders for fee deadlines
+
+Upload profile pictures
+
+Email on successful registration

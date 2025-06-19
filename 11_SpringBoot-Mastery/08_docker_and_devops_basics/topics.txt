@@ -1,0 +1,15 @@
+📁 08_docker_and_devops_basics
+⏱ Duration: 6 days
+🎯 Topics to Cover:
+
+Dockerfile and Docker Compose
+
+Containerize Spring Boot + MySQL
+
+DevOps basics: CI/CD intro (GitHub Actions or Jenkins overview)
+
+🧪 Project: Dockerized Student Portal
+
+Create Dockerfile and docker-compose.yml
+
+Include Spring Boot and MySQL setup

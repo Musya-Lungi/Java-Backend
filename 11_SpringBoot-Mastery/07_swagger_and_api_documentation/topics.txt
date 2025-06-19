@@ -1,0 +1,15 @@
+📁 07_swagger_and_api_documentation
+⏱ Duration: 3–4 days
+🎯 Topics to Cover:
+
+Swagger with Springdoc OpenAPI 3
+
+Documenting Controllers & models
+
+Grouping APIs, adding descriptions
+
+🧪 Project: Documented Student API
+
+Use Swagger UI for all API endpoints
+
+Add clear descriptions and sample responses
