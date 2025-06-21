@@ -1,16 +1,14 @@
-🗓️ Day 3 – 03_interfaces_abstract
-Topics:
+✅ Module 03 – 03_interfaces_abstract
+Topics: Interfaces, abstract classes, polymorphism
 
-Interfaces
+📌 Project Suggestion:
+📦 Project: Payment Gateway System
+🎯 Objective: Simulate different payment methods using interfaces and abstract classes.
+✅ Concepts Used:
 
-Abstract Classes
+Interface: PaymentMethod with pay(double amount)
 
-Multiple Inheritance (via interfaces)
+Concrete classes: Mpesa, CreditCard, BankTransfer
 
-implements vs extends
-
-Polymorphism
-
-🛠️ Project:
-Online Payment Gateway
-Implement interface PaymentMethod with classes like Mpesa, Card, etc.
+Abstract class: Transaction with shared behaviors
+📁 Folder: 03_interfaces_abstract/PaymentGatewaySystem

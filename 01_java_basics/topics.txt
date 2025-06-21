@@ -1,16 +1,16 @@
-🗓️ Day 1 – 01_java_basics
-Topics:
+✅ Module 01 – 01_java_basics
+Topics Likely Covered: Variables, data types, conditionals, loops, operators, switch, arrays, basic I/O
 
-Java setup & compiling
+📌 Project Suggestion:
+📦 Project: Student Grading System (Console-Based)
+🎯 Objective: Read students’ names, input marks for 3 subjects, calculate averages, grade (A–F), and output reports.
+✅ Concepts Used:
 
-Data types & variables
+Variables and data types
 
-Operators
+if/else, switch, for/while loops
 
-Control flow (if-else, switch)
+Arrays for student data
 
-Loops (for, while, do-while)
-
-🛠️ Project:
-Student Grading System
-Take user input for marks and use control flow to assign grades.
+Console I/O (Scanner)
+📁 Folder: 01_java_basics/StudentGradingSystem

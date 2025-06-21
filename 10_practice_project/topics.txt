@@ -1,14 +1,6 @@
-🗓️ Day 10 – 10_practice_project
-🧩 Objective:
-Combine everything from Day 1–9.
+✅ Module 10 – 10_practice_project
+Once all previous concepts are complete, this should be:
+📦 Project: Mini ERP System (Inventory + Customers + Sales)
+🎯 Objective: Integrate OOP, collections, I/O, exceptions, etc.
+📁 Folder: 10_practice_project/MiniERP
 
-🛠️ Project:
-Inventory Management System
-
-CRUD operations on products
-
-Stock tracking (Collections)
-
-Multithreaded reports
-
-Use of OOP, Interfaces, Exception Handling, Streams, and Generics

@@ -1,12 +1,12 @@
-🗓️ Day 7 – 07_lambdas_streams
-Topics:
+✅ Module 07 – 07_lambdas_streams
+Topics: Functional interfaces, lambda expressions, streams
 
-Functional Interfaces
+📌 Project Suggestion:
+📦 Project: Employee Stream Processor
+🎯 Objective: Use streams to filter, sort, and group employees
+✅ Concepts Used:
 
-Lambda expressions
+Predicate, Function, Consumer
 
-Stream API: filter, map, reduce, collect
-
-🛠️ Project:
-Sales Data Processor
-Use Stream to filter and summarize a list of sales transactions.
+List<Employee> processed with stream().filter().map().collect()
+📁 Folder: 07_lambdas_streams/EmployeeStreamProcessor

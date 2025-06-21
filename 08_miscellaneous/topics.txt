@@ -1,17 +1,14 @@
-🗓️ Day 8 – 08_miscellaneous
-Topics:
+✅ Module 08 – 08_miscellaneous
+Topics: File I/O, enums, varargs, static blocks
 
-static keyword
+📌 Project Suggestion:
+📦 Project: Log File Analyzer
+🎯 Objective: Read log files, count error levels (INFO, WARN, ERROR), output to another file
+✅ Concepts Used:
 
-final keyword
+enum LogLevel
 
-Object class methods (toString, equals)
+BufferedReader, FileWriter
 
-Wrapper classes
-
-Autoboxing/Unboxing
-
-🛠️ Project:
-Utility Billing App
-Use static methods for unit calculations and override toString() for reporting.
-
+static utilities
+📁 Folder: 08_miscellaneous/LogAnalyzer

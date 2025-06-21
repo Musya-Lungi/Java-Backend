@@ -1,14 +1,12 @@
-🗓️ Day 5 – 05_exceptions
-Topics:
+✅ Module 05 – 05_exceptions
+Topics: Try-catch, custom exceptions, finally
 
-try, catch, finally
+📌 Project Suggestion:
+📦 Project: Banking Application with Robust Validation
+🎯 Objective: Simulate banking operations, catch invalid withdrawals, zero balances, etc.
+✅ Concepts Used:
 
-Built-in Exceptions
+Custom exceptions: InsufficientFundsException, InvalidAmountException
 
-throw and throws
-
-Custom Exceptions
-
-🛠️ Project:
-Library Book Issuer
-Handle errors like book not found, already borrowed, max limit reached.
+Nested try-catch blocks
+📁 Folder: 05_exceptions/BankingApp

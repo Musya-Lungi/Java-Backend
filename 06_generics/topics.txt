@@ -1,12 +1,13 @@
-🗓️ Day 6 – 06_generics
-Topics:
+✅ Module 06 – 06_generics
+Topics: Generic classes, methods, bounded types
 
-Generic Classes and Methods
+📌 Project Suggestion:
+📦 Project: Data Container Library
+🎯 Objective: Build reusable container classes for various data types
+✅ Concepts Used:
 
-Bounded types
+Box<T>
 
-Wildcards (?, extends, super)
+Generic utility method: public <T> void printArray(T[] arr)
+📁 Folder: 06_generics/GenericContainerLibrary
 
-🛠️ Project:
-Generic Data Storage App
-Create a generic class to store and retrieve typed objects (e.g., Student, Teacher).

@@ -1,14 +1,15 @@
-🗓️ Day 4 – 04_collections
-Topics:
+✅ Module 04 – 04_collections
+Topics: List, Set, Map, Iterators
 
-Lists (ArrayList, LinkedList)
+📌 Project Suggestion:
+📦 Project: Simple CRM (Customer Management)
+🎯 Objective: Manage customers, emails, and orders
+✅ Concepts Used:
 
-Sets (HashSet, TreeSet)
+HashMap to store customer data
 
-Maps (HashMap, TreeMap)
+ArrayList for order history
 
-Iterating collections
+HashSet for emails to avoid duplicates
+📁 Folder: 04_collections/SimpleCRMSystem
 
-🛠️ Project:
-Club Membership Register
-Store members, prevent duplicates, lookup details using maps.

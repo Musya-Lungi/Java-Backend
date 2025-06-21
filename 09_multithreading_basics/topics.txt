@@ -1,14 +1,12 @@
-🗓️ Day 9 – 09_multithreading_basics
-Topics:
+✅ Module 09 – 09_multithreading_basics
+Topics: Threads, Runnable, thread lifecycle
 
-Thread lifecycle
+📌 Project Suggestion:
+📦 Project: File Downloader Simulator
+🎯 Objective: Simulate downloading multiple files using threads
+✅ Concepts Used:
 
-Creating threads (Thread, Runnable)
+Runnable for each file
 
-Thread synchronization (basics)
-
-Sleep, Join
-
-🛠️ Project:
-Background File Downloader Simulation
-Create multiple threads to simulate downloading files simultaneously.
+Thread.sleep() to simulate progress
+📁 Folder: 09_multithreading_basics/FileDownloader

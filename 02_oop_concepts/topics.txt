@@ -1,18 +1,16 @@
-🗓️ Day 2 – 02_oop_concepts
-Topics:
+✅ Module 02 – 02_oop_concepts
+Topics Likely Covered: Classes, objects, constructors, this, inheritance, method overloading/overriding
 
-Classes & Objects
+📌 Project Suggestion:
+📦 Project: Library Management System (OOP-based)
+🎯 Objective: Model books, borrowers, and library transactions using classes
+✅ Concepts Used:
 
-Constructors
+Book, Member, Library classes
 
-this keyword
+Use of constructors, getters/setters
 
-Method Overloading
+Inheritance: e.g., Member → StudentMember or StaffMember
 
-Inheritance (Single/Multilevel)
-
-super keyword
-
-🛠️ Project:
-School Management System
-Create Student, Teacher, and Course classes with inheritance.
+Method overloading: e.g., issueBook(String title) and issueBook(Book book)
+📁 Folder: 02_oop_concepts/LibraryManagementSystem
