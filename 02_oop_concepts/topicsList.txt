@@ -1,0 +1,57 @@
+JavaOOPMastery/
+│
+├── src/
+│   └── com.musya.oop/
+│        ├── module1_oop_basics/
+│        │     ├── OOPConcepts.java
+│        │     ├── NamingConventions.java
+│        │     ├── ObjectVsClass.java
+│        │     └── JavaObjectClass.java
+│        │
+│        ├── module2_classes_objects_methods/
+│        │     ├── ConstructorDemo.java
+│        │     ├── StaticKeywordDemo.java
+│        │     ├── ThisKeywordDemo.java
+│        │     ├── MethodsDemo.java
+│        │     ├── RecursionDemo.java
+│        │     └── CallByValueVsReference.java
+│        │
+│        ├── module3_inheritance_aggregation/
+│        │     ├── InheritanceDemo.java
+│        │     └── AggregationDemo.java
+│        │
+│        ├── module4_polymorphism/
+│        │     ├── MethodOverloading.java
+│        │     ├── MethodOverriding.java
+│        │     ├── CovariantReturnType.java
+│        │     ├── SuperKeywordDemo.java
+│        │     ├── InstanceInitializerBlock.java
+│        │     ├── FinalKeywordDemo.java
+│        │     ├── StaticDynamicBinding.java
+│        │     └── InstanceofDemo.java
+│        │
+│        ├── module5_abstraction/
+│        │     ├── AbstractClassDemo.java
+│        │     ├── InterfaceDemo.java
+│        │     └── AbstractVsInterface.java
+│        │
+│        ├── module6_encapsulation_modularity/
+│        │     ├── PackageDemo.java
+│        │     ├── AccessModifiersDemo.java
+│        │     └── EncapsulationDemo.java
+│        │
+│        ├── module7_arrays_misc/
+│        │     ├── JavaArray.java
+│        │     ├── JaggedArray.java
+│        │     ├── ArrayMethods.java
+│        │     ├── ObjectCloningDemo.java
+│        │     ├── JavaMathClass.java
+│        │     ├── WrapperClassDemo.java
+│        │     ├── StrictfpKeywordDemo.java
+│        │     ├── JavadocDemo.java
+│        │     ├── CommandLineArgument.java
+│        │     └── OverloadingVsOverriding.java
+│
+├── README.md
+├── pom.xml or build.gradle (if needed)
+└── .gitignore
